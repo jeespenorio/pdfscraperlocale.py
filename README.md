@@ -1,0 +1,1 @@
+# pdfscraperlocale.py
